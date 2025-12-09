@@ -1,0 +1,5 @@
+{
+  "name": "阿勳看盤軟體",
+  "description": "A comprehensive Taiwan Stock market analysis tool featuring AI-driven strategy recommendations, technical indicators (PSY, ATR, MACD), and interactive charting.",
+  "requestFramePermissions": []
+}
